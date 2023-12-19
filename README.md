@@ -63,4 +63,3 @@ For support, email guruhanamannavar676@gmail.com or join our Slack channel.
 ## Authors
 
 - [@Gurusidda Hanamannavar](https://github.com/dreamboyguru)
-- 
