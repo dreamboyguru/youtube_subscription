@@ -35,8 +35,20 @@ To start this project run
 ```
 
 
-## 🛠 Skills
-MongoDB, Express-JS, Node-JS, JavaScript, HTML, CSS...
+## Tech Stack Used
+
+**Frontend:** HTML and CSS(home page)
+
+**Backend Framework:** Node.js with Express.js
+
+**Database:** MongoDB with Mongoose.
+
+**API Documentation:** Postman for API documentation.
+
+**IDE:** Visual Studio Code.
+
+**Hosting:** Render for deployment with GitHub for code hosting.
+
 
 ## Feedback
 
@@ -51,4 +63,4 @@ For support, email guruhanamannavar676@gmail.com or join our Slack channel.
 ## Authors
 
 - [@Gurusidda Hanamannavar](https://github.com/dreamboyguru)
-
+- 
