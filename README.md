@@ -1,13 +1,13 @@
 # YouTube Subscription
 
-This backend project is use to get data from database by using different API 
+This backend project is used to retrieve data from the database by utilizing various APIs 
 
 ## Deployment
 
 To deploy this project run
 
 ```bash
-  https://github.com/dreamboyguru/youtube_subscription
+  https://youtube-subscription.onrender.com
 ```
 
 ## Start command
@@ -28,23 +28,10 @@ To start this project run
 
 ## API Reference
 
-#### Get all subscribers details
+#### The link provides all API details along with examples.
 
-```http
-  GET https://youtube-subscription.onrender.com/subscribers
-```
-
-
-#### Get names and subscribed channel
-
-```http
-  GET https://youtube-subscription.onrender.com/subscribers/names
-```
-
-#### Get particular subscriber details using ID
-
-```http
-  GET https://youtube-subscription.onrender.com/subscribers/{id}
+```http 
+  https://documenter.getpostman.com/view/31401821/2s9Ykocg8o
 ```
 
 
