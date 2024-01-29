@@ -2,10 +2,12 @@
 
 This backend project is used to retrieve data from the database by utilizing various APIs 
 
-## Certificate for this project
+## Certificate And Summary
 
   [Certificate](https://certificates.almabetter.com/en/verify/71935460387591)
 
+  [Summary](https://docs.google.com/document/d/1JJXGc1ybg6gGFx00Fb4H1x_LVvcO5upY/edit?usp=sharing&ouid=101631406661075244481&rtpof=true&sd=true)
+  
 ## Deployment
 
 To deploy this project run
